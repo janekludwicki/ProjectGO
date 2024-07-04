@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjectGoGame", "ProjectGoGame.vcxproj", "{24A6C887-A6FF-41CB-9F72-D5CD2CEF29EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A6C887-A6FF-41CB-9F72-D5CD2CEF29EE}.Debug|x64.ActiveCfg = Debug|x64
+		{24A6C887-A6FF-41CB-9F72-D5CD2CEF29EE}.Debug|x64.Build.0 = Debug|x64
+		{24A6C887-A6FF-41CB-9F72-D5CD2CEF29EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{24A6C887-A6FF-41CB-9F72-D5CD2CEF29EE}.Debug|x86.Build.0 = Debug|Win32
+		{24A6C887-A6FF-41CB-9F72-D5CD2CEF29EE}.Release|x64.ActiveCfg = Release|x64
+		{24A6C887-A6FF-41CB-9F72-D5CD2CEF29EE}.Release|x64.Build.0 = Release|x64
+		{24A6C887-A6FF-41CB-9F72-D5CD2CEF29EE}.Release|x86.ActiveCfg = Release|Win32
+		{24A6C887-A6FF-41CB-9F72-D5CD2CEF29EE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE905496-1CC5-4284-A3E5-6C88C2FF7CE7}
+	EndGlobalSection
+EndGlobal

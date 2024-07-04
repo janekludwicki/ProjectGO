@@ -1,0 +1,10 @@
+﻿  conio2.cpp
+  main.cpp
+C:\Users\janek\source\repos\ProjectGoGame\main.cpp(397,18): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 4 has type 'char *'
+C:\Users\janek\source\repos\ProjectGoGame\main.cpp(397,18): message : consider using '%hhd' in the format string
+C:\Users\janek\source\repos\ProjectGoGame\main.cpp(397,18): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 6 has type 'char *'
+C:\Users\janek\source\repos\ProjectGoGame\main.cpp(397,18): message : consider using '%hhd' in the format string
+C:\Users\janek\source\repos\ProjectGoGame\main.cpp(397,18): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 10 has type 'bool *'
+  stonelist.cpp
+  Generating Code...
+  ProjectGoGame.vcxproj -> C:\Users\janek\source\repos\ProjectGoGame\Debug\ProjectGoGame.exe
